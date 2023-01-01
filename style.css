@@ -1,0 +1,25 @@
+*{
+  font-family: 'Rubik', sans-serif;
+  padding: 20;
+  margin: 10px ;
+}
+table, th, td{
+  margin: 5px;
+  border-collapse: 10px solid black;
+  width: 25%;
+  height: 30px;
+}
+p{
+  color: rgb(2, 53, 2);
+  font-size: large;
+  font-weight: 600;
+}
+table {
+  width: 50%;
+  text-align: center;
+}
+th{
+  background-color: green;
+  color: #ffffff;
+}
+tr:nth-child(odd) {background-color: rgb(215, 252, 215);}
